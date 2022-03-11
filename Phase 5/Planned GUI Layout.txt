@@ -1,0 +1,37 @@
+Planned Layout for Final GUI
+
+Pre-main: 
+Allow user a welcome page: "Hello, welcome to the Diary Management System"
+Have sign in botton to left
+Have quit button to right
+
+*sign in - go to sign in page
+
+Sign in:
+Have user select between guest and registered user
+
+*Guest leads to search page only
+*Sign in leads to all access - go to main menu
+*Quit ends program
+
+Main menu:
+Have all buttons lined up and down on the left side excl. quit
+
+*Add a record - go to add/delete page
+*Delete a record - go to add/delete page
+*Search a record - go to search page
+*Quit ends program
+
+Search page:
+*Search records - user based input value
+*Show all records - return all registered records
+
+*If Guest, back would only lead to sign in
+*If signed in, back leads to main
+
+Add/Delete page:
+Allow user input + botton to either add or delete a record, return invalid entry if nonexsistant 
+
+*Back button returns to main
+
+
